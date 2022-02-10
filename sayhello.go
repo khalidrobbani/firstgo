@@ -1,5 +1,5 @@
 package firstgo
 
 func SayHello() string {
-	return "Hello"
+	return "Hello World"
 }
